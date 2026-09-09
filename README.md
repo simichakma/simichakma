@@ -27,6 +27,8 @@ My current focus is on strengthening my skills in **Python, software development
 
 * 🎓 **B.Tech in Computer Science & Engineering**
 * 🏫 **Primeasia University**
+* 📅 **2021 – 2025**
+* 📊 **GPA: 3.13**
 * 💻 Interested in **Software Development & Software Testing**
 * 🐍 Working primarily with **Python**
 * 🧪 Interested in **QA & Test Automation**
