@@ -26,14 +26,10 @@ I enjoy solving programming problems, analyzing software behavior, building auto
 My current focus is on strengthening my skills in **Python, software development, QA automation, Selenium, Pytest, SQL, and machine learning**, while gaining practical experience with real-world software projects.
 
 * 🎓 **B.Tech in Computer Science & Engineering**
-* 🏫 **Primeasia University**
-* 📅 **2021 – 2025**
-* 📊 **GPA: 3.13**
 * 💻 Interested in **Software Development & Software Testing**
 * 🐍 Working primarily with **Python**
 * 🧪 Interested in **QA & Test Automation**
 * 🤖 Exploring **Machine Learning & Computer Vision**
-* 📍 **Dhaka, Bangladesh**
 
 ---
 
