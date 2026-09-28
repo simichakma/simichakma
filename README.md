@@ -22,13 +22,10 @@
 
 # 👋 About Me
 
-I'm **Simi Chakma**, a Computer Science & Engineering graduate and Software Developer focused on building practical, reliable, and maintainable software solutions.
+I'm **Simi Chakma**, a Computer Science & Engineering graduate and Software Developer focused on building reliable, scalable, and practical software solutions.
 
-My primary experience and interests are in **Python, Django, Laravel, web application development, database-driven systems, software testing, and test automation**. I also explore **Machine Learning and Data Analysis** through practical projects.
+My core interests include **Python, Django, Laravel, web development, databases, QA automation, and Machine Learning**. I enjoy solving real-world problems, developing software applications, and continuously improving my skills in **software development, testing, and modern engineering practices**.
 
-I enjoy working across the software development lifecycle — from understanding requirements and designing database-driven applications to implementing features, testing functionality, identifying defects, and improving software quality.
-
-Currently, I am gaining professional experience through an internship while continuing to strengthen my skills in **software development, QA automation, backend development, SQL, and modern software engineering practices**.
 
 ### 💡 What I Bring
 
