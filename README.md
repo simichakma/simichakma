@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Simi%20Chakma&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt=
-    "Hello , I'm Simi Chakma Header" />
+    "Simi Chakma Header" />
 </p>
 
 <p align="center">
@@ -23,9 +23,10 @@
 
 # 👋 About Me
 
-I'm **Simi Chakma**, a Computer Science & Engineering graduate and Software Developer focused on building reliable, scalable, and practical software solutions.
+I'm **Simi Chakma**, a Software Developer focused on building **scalable, reliable, and practical software solutions**.
 
-My core interests include **Python, Django, Laravel, web development, databases, QA automation, and Machine Learning**. I enjoy solving real-world problems, developing software applications, and continuously improving my skills in **software development, testing, and modern engineering practices**.
+My expertise spans **Python, Django, Laravel, JavaScript, databases, QA automation, and Machine Learning**. I enjoy solving real-world problems and building **clean, maintainable, and production-ready applications**.
+
 
 
 ### 💡 What I Bring
