@@ -21,28 +21,6 @@
 
 ---
 
-# 👋 About Me
-
-I'm **Simi Chakma**, a Software Developer focused on building **scalable, reliable, and practical software solutions**.
-
-My expertise spans **Python, Django, Laravel, JavaScript, databases, QA automation, and Machine Learning**. I enjoy solving real-world problems and building **clean, maintainable, and production-ready applications**.
-
----
-
-# 🚀 What I'm Currently Working On
-
-* 🐍 Python & Django web applications
-* 🌐 Full-stack and database-driven systems
-* 🧪 Manual & automated software testing
-* 🤖 Selenium + Pytest automation
-* 🔌 API testing with Postman
-* 🗄️ SQL database design and management
-* 🤖 Machine Learning and Data Analysis projects
-* ⚙️ Improving software development and QA workflows
-* ☁️ Deployment and production-oriented development
-
----
-
 # 🛠️ Technical Skills
 
 ## 💻 Programming Languages
@@ -176,6 +154,27 @@ Practical machine learning projects involving data preprocessing, class imbalanc
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=simichakma&theme=tokyonight&border=0E75B6&background=0D1117" alt="GitHub Streak" />
 </p>
+
+---
+# 👋 About Me
+
+I'm **Simi Chakma**, a Software Developer focused on building **scalable, reliable, and practical software solutions**.
+
+My expertise spans **Python, Django, Laravel, JavaScript, databases, QA automation, and Machine Learning**. I enjoy solving real-world problems and building **clean, maintainable, and production-ready applications**.
+
+---
+
+# 🚀 What I'm Currently Working On
+
+* 🐍 Python & Django web applications
+* 🌐 Full-stack and database-driven systems
+* 🧪 Manual & automated software testing
+* 🤖 Selenium + Pytest automation
+* 🔌 API testing with Postman
+* 🗄️ SQL database design and management
+* 🤖 Machine Learning and Data Analysis projects
+* ⚙️ Improving software development and QA workflows
+* ☁️ Deployment and production-oriented development
 
 ---
 
