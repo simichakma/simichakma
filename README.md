@@ -154,7 +154,8 @@ Web automation projects using Selenium and Pytest covering functional workflows,
 
 **Tech:** Python • Selenium • Pytest
 
-### 🤖 Machine Learning Projects
+### 💳 Credit Card Fraud Detection
+
 
 Practical machine learning projects involving data preprocessing, class imbalance handling, model training and evaluation.
 
