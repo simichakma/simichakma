@@ -27,20 +27,6 @@ I'm **Simi Chakma**, a Software Developer focused on building **scalable, reliab
 
 My expertise spans **Python, Django, Laravel, JavaScript, databases, QA automation, and Machine Learning**. I enjoy solving real-world problems and building **clean, maintainable, and production-ready applications**.
 
-
-
-### 💡 What I Bring
-
-* 💻 Software development with **Python, Django, PHP & Laravel**
-* 🧪 Manual and automated software testing
-* 🔍 Web and API testing
-* 🤖 Test automation with **Selenium & Pytest**
-* 🗄️ Database development with **MySQL, PostgreSQL & MariaDB**
-* 🌐 Full-stack web application development
-* 🤖 Practical exploration of **Machine Learning & Data Analysis**
-* 🔧 Git, GitHub and collaborative development workflows
-* 📋 Software documentation, bug reporting and quality-focused development
-
 ---
 
 # 🚀 What I'm Currently Working On
