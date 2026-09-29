@@ -148,7 +148,7 @@ A Django-based business website and content management system with dynamic servi
 
 **Tech:** Python • Django • MySQL • JavaScript • AJAX • Apache
 
-### 🧪 Selenium Automation Projects
+### 🧪 SauceDemo Automation with Pytest & Selenium
 
 Web automation projects using Selenium and Pytest covering functional workflows, assertions, Page Object Model and automated test reporting.
 
