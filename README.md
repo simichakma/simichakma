@@ -21,9 +21,9 @@
 
 ---
 
-# Technical Skills
+# 💻Technical Skills
 
-## 💻 Programming Languages
+## Programming Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
@@ -93,7 +93,7 @@
 
 ---
 
-# 🧠 Core Competencies
+# 💼 Professional Expertise
 
 | Area                    | Technologies / Knowledge                                              |
 | ----------------------- | --------------------------------------------------------------------- |
