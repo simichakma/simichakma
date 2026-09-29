@@ -21,7 +21,7 @@
 
 ---
 
-# 🛠️ Technical Skills
+# Technical Skills
 
 ## 💻 Programming Languages
 
