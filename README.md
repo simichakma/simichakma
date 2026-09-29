@@ -1,6 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=220&section=header&text=Simi%20Chakma&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35" alt=
-    "Simi Chakma Header" />
+    "I'm **Simi Chakma** Header" />
 </p>
 
 <p align="center">
@@ -134,26 +134,6 @@ My expertise spans **Python, Django, Laravel, JavaScript, databases, QA automati
 
 ---
 
-# 📌 Featured Areas
-
-### 🧪 QA & Test Automation
-
-Developing automated testing workflows using **Selenium, Pytest and Playwright**, while practicing structured test cases, defect reporting, regression testing and API testing.
-
-### 💻 Software Development
-
-Building database-driven web applications using **Python/Django and PHP/Laravel**, with a focus on CRUD functionality, backend logic, APIs and maintainable application structure.
-
-### 🤖 Machine Learning
-
-Working on practical ML projects involving **classification, data preprocessing, model evaluation and computer vision**.
-
-### 🗄️ Database Systems
-
-Designing and working with relational databases including **MySQL, PostgreSQL and MariaDB** for real-world application development.
-
----
-
 # 🚀 Selected Projects
 
 ### 🏥 LifeBlood — Blood Bank Management System
@@ -209,15 +189,6 @@ Practical machine learning projects involving data preprocessing, class imbalanc
 * Machine Learning & Data Analysis
 * Docker & Deployment
 * CI/CD and Software Engineering Practices
-
----
-
-# 🎯 Professional Focus
-
-My professional focus is to contribute to software teams where I can combine **software development, quality assurance, automation, and problem-solving** to build dependable technology solutions.
-
-I am continuously improving my technical skills through hands-on projects, practical testing, application development, and real-world software engineering experience.
-
 ---
 
 # 🤝 Let's Connect
